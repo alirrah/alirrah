@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
-**alirrah/alirrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img style=”margin: 10px” src=”https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt=”React” height=”50" />
 
 Here are some ideas to get you started:
 
