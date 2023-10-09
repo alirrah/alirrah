@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=alirrah&fontSize=90&animation=fadeIn&desc=Front%20Developer&descAlignY=20)
 
-### Hi there 👋
-
 ![](https://komarev.com/ghpvc/?username=alirrah)
 
 
