@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img style=”margin: 10px” src=”https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt=”React” height=”50" />
+![](https://komarev.com/ghpvc/?username=alirrah)
 
 Here are some ideas to get you started:
 
